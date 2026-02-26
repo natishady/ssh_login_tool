@@ -1,0 +1,6 @@
+paramiko==3.4.0
+openai==1.0.0
+# Optional local AI package (if you want offline testing)
+# ollama==0.1.0
+colorama==0.4.6   # for colored CLI output if desired
+python-dotenv==1.0.0  # for environment variable management
